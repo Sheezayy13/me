@@ -1,7 +1,7 @@
 
-  # sheeza portfolio
+  # mee
 
-  This is a code bundle for sheeza portfolio. The original project is available at https://www.figma.com/design/V5D8vGTWZKbu9zG5uhBpy7/sheeza-portfolio.
+  This is a code bundle for mee. The original project is available at https://www.figma.com/design/V5D8vGTWZKbu9zG5uhBpy7/mee.
 
   ## Running the code
 
